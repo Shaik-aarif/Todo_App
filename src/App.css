@@ -105,3 +105,11 @@ body{
 .icon-delete:hover{
   color: red;
 }
+
+@media (max-width: 730px) {
+  /* … */
+  .center-container{
+    width: 70%;
+  }
+  
+}
